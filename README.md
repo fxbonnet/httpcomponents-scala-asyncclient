@@ -1,2 +1,2 @@
 # httpcomponents-scala-asyncclient
-Scala wrapper for httpcomponents-asyncclient
+Scala wrapper for Apache HttpAsyncClient
